@@ -1,11 +1,17 @@
 # ai_qa_project
-# AI QA Challenge
+
+<h2 align="center">AI Shopping Assistant — QA Evaluation Project</h2>
+
 
 AI Support Agent and automated AI quality tests for a locally running e-commerce training application.
 
 The System Under Test is kept locally and is not included in this repository.
 
-![](/Users/regina/PycharmProjects/ai_qa_project/image.png)
+<p align="center">
+  <img src="image.png"
+       alt="AI Shopping Assistant"
+       width="280">
+</p>
 
 ## Project goals
 
