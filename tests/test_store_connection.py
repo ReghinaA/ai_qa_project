@@ -1,3 +1,5 @@
+"""Test the availability of the locally running e-commerce store."""
+
 import os
 
 import requests
