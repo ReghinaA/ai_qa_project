@@ -5,6 +5,8 @@ AI Support Agent and automated AI quality tests for a locally running e-commerce
 
 The System Under Test is kept locally and is not included in this repository.
 
+![](/Users/regina/PycharmProjects/ai_qa_project/image.png)
+
 ## Project goals
 
 - test responses against store data as ground truth
